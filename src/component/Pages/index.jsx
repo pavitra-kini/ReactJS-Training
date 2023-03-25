@@ -11,7 +11,7 @@ const Pages = ({ pageNumber, setPageNumber }) => {
         2: {
             name: 'Next',
             style: 'rounded-r',
-            bg: pageNumber === 3 ? 'bg-gray-200' : 'bg-gray-400'
+            bg: pageNumber === 4 ? 'bg-gray-200' : 'bg-gray-400'
         }
     }
     return (
